@@ -24,7 +24,7 @@ Usage
 
    application = cordova.App(
        'You Application Name',
-       'You Application path'  # Ex: /Users/<user>/Desktop/cordova/myapp
+       'You Application path')  # Ex: /Users/<user>/Desktop/cordova/myapp
    )
 
    application.build('android') # or any installed platform
